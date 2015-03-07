@@ -1,0 +1,10 @@
+platform :ios, '8.0'
+
+target 'SocialNetwork' do
+pod "Parse"
+end
+
+target 'SocialNetworkTests' do
+
+end
+
